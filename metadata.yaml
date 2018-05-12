@@ -1,0 +1,38 @@
+_repo: Chips-from-a-German-Workshop---Volume-IVEssays-chiefly-on-the-Science-of-Language_30192
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Müller, F. Max (Friedrich Max)
+    aliases:
+    - Mueller, Friedrich Max
+    - Müller, Max
+    - Müller, Friedrich Max
+    - Muller, F. Max (Friedrich Max)
+    - F. Max Müller
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '787'
+    url: http://www.gutenberg.org/2009/agents/787
+    wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
+description: ''
+gutenberg_issued: '2009-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Religions'
+- !lcsh 'Folklore'
+- !lcsh 'Comparative linguistics'
+- !lcsh 'Mythology'
+title: "Chips from a German Workshop, Volume 4\r\nEssays Chiefly on the Science of\
+  \ Language"
+url: http://www.gutenberg.org/ebooks/30192
